@@ -15,7 +15,7 @@ I'm learning languages such as:
 
 
 
-![Mirt0001's GitHub stats](https://github-readme-stats.vercel.app/api?username=MirtT1337&count_private=true&theme=dark)
+![Mirt0001's GitHub stats](https://github-readme-stats.vercel.app/api?username=MirtT1337&count_private=true&theme=dracula)
 
 
 ![Mirt0001's Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MirtT1337&layout=compact&hide=html&bg_color=00000000&text_color=7a7a7a)
